@@ -1,0 +1,18 @@
+/*will be applied in my about page*/
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+/*will be applied to my Index Page*/
+.photoCaption{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+}
+/*will be used to bold the titles for the headings on my resume*/
+.resumeTitle{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*will be used for each bullet point on my resume*/
+.resumePoints{
+    font-family: Arial, Helvetica, sans-serif;
+}
